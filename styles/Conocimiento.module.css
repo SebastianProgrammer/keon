@@ -1,0 +1,96 @@
+.contenedor {
+    width: min(90%, 120rem);
+    margin: 0 auto;
+    margin-top: 25rem;
+}
+
+@media (min-width: 768px) {
+    .contenedor {
+        margin-top: 10rem;
+    }
+}
+
+.conocimiento h1 {
+    color: var(--indigo);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 4rem;
+    font-weight: 900;
+}
+
+.marketing h2,
+.disign h2,
+.programacion h2 {
+    color: var(--indigo);
+    text-align: center;
+    text-transform: uppercase;
+}
+
+@media (min-width: 768px) {
+    .marketing h2,
+    .disign h2,
+    .programacion h2 {
+        text-align: start;
+    }
+}
+
+.marketing p,
+.disign p,
+.programacion p {
+    font-size: 2.4rem;
+}
+
+.lista {
+    list-style: square;
+    color: var(--naranja);
+    font-size: 2rem;
+    font-weight: 700;
+    margin-left: 5rem;
+}
+
+.lista li {
+    padding: 1rem;
+}
+
+.lenguajes h3 {
+    color: var(--naranja);
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.cards {
+    display: grid;
+    row-gap: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (min-width:  768px) { 
+    .cards {
+        grid-template-columns: repeat(3 ,1fr);
+        column-gap: 2rem;
+    }
+}
+
+.card {
+    background-color: var(--grisOscuro);
+    border: 1px solid var(--grisOscuro);
+    border-radius: 1rem;
+    padding: 1rem;
+    box-shadow: 0px 3px 15px -3px #000000;
+    width: 400px;
+}
+
+.cardImagen {
+    text-align: center;
+}
+
+.cardTitulo h4 {
+    color: var(--rosado);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: 900;
+    margin-bottom: 0;
+    border-top: 1px solid var(--negro);
+}

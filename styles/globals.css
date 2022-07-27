@@ -1,0 +1,105 @@
+:root {
+  --Fuente: "Poppins", sans-serif;
+  --blanco: #fff;
+  --negro: #000;
+  --gris: #e3e3e3;
+  --grisOscuro: #1f1f1f;
+  --fondo: #f9f7f7;
+  --rosado: #b413df;
+  --rosadoOscuro: #8b0aaf;
+  --naranja: #FA4814;
+  --indigo: #5614FA;
+  --indigoOscuro: #4403e7;
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: var(--Fuente);
+  background-color: var(--fondo);
+}
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.4rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.btn {
+  border: none;
+  border-radius: 1rem;
+  padding: 2rem;
+  margin-top: 2rem;
+  display: block;
+  width: 100%;
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--blanco);
+  text-transform: uppercase;
+  transition: background-color .3s ease ;
+  text-align: center;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+@media (min-width:  768px) { 
+    .btn {
+      width: 30rem;
+      margin: 0 auto;
+    }
+}
+
+.btn-indigo {
+  background-color: var(--indigo);
+}
+
+.btn-indigo:hover {
+  background-color: var(--indigoOscuro);
+}
+
+.btn-rosado {
+  background-color: var(--rosado);
+}
+
+.btn-rosado:hover {
+  background-color: var(--rosadoOscuro);
+}
+
+.btn-end {
+  margin-top: 21rem;
+}
+
+.no-margin {
+  margin: 0;
+}

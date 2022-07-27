@@ -4,7 +4,7 @@ import Header from "../components/Header";
 import Footer from "../components/Footer";
 import styles from '../styles/Conocimiento.module.css'
 import html from '../public/img/HTML.svg'
-import css from '/img/css.svg'
+import css from '../public/img/css.svg'
 import sass from '../public/img/Sass.svg'
 import wordpress from '../public/img/Wordpress.svg'
 import js from '../public/img/js.svg'

@@ -12,13 +12,13 @@ import php from '../public/img/PHP.svg'
 import python from '../public/img/Python.svg'
 import react from '../public/img/React JS.svg'
 import native from '../public/img/React Native.svg'
-import nextjs from '../public/img/NextJS.svg'
-import gastby from '../public/img/Gatsby.svg'
 import electron from '../public/img/Electron.svg'
+import nextjs from '../public/img/NextJS.svg'
+import gatsby from '../public/img/Gatsby.svg'
 import sql from '../public/img/SQL V1.svg'
 import graphql from '../public/img/GraphQL.svg'
-import node from '../public/img/Node JS.svg'
 import mongo from '../public/img/Mondo.svg'
+import node from '../public/img/Node JS.svg'
 
 const conocimientos = () => {
   return (
@@ -199,7 +199,7 @@ const conocimientos = () => {
                 <div className={styles.card}>
 
                   <div className={styles.cardImagen}>
-                    <Image src={gastby} width={200} height={200} />
+                    <Image src={gatsby} width={200} height={200} />
                   </div>
 
                   <div className={styles.cardTitulo}>

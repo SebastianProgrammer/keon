@@ -171,7 +171,7 @@ const integrantes = () => {
                     {" "}
                     {/* Inicio del card */}
                     <div className={styles.cardImagen}>
-                      <Image src={darlinton} width={500} height={400} layout="responsive" />
+                      <Image src={darlinton} width={450} height={320} layout="responsive" />
                     </div>
 
                     <div className={styles.cardInfo}>
@@ -197,36 +197,12 @@ const integrantes = () => {
               <div className={styles.programacion}>
                 <h3>Programacion</h3>
                 <div className={styles.cards}>
+                 
                   <div className={styles.card}>
                     {" "}
                     {/* Inicio del card */}
                     <div className={styles.cardImagen}>
-                      <h3>Coming Soon!</h3>
-                    </div>
-                    <div className={styles.cardInfo}>
-                      <h3>Sebastian Iral Valencia</h3>
-                      <p className="no-margin">
-                        <span>Cargo</span>: Lider - Lider Programacion
-                      </p>
-                      <p>
-                        Actual lider del empredimiento keon desempeña este rol
-                        encancargado de relaciones comerciales y de generar
-                        estrategias
-                      </p>
-                    </div>
-                    <div className={styles.cardBtn}>
-                      <Link href="/integrantes/sebastian">
-                        <a className="btn btn-rosado">Ver a Sebastian</a>
-                      </Link>
-                    </div>
-                  </div>{" "}
-                  {/* Fin del card */}
-
-                  <div className={styles.card}>
-                    {" "}
-                    {/* Inicio del card */}
-                    <div className={styles.cardImagen}>
-                      <Image src={danilo} width={500} height={400} layout="responsive" />
+                      <Image src={danilo} width={450} height={320} layout="responsive" />
                     </div>
 
                     <div className={styles.cardInfo}>
@@ -264,7 +240,7 @@ const integrantes = () => {
                       </p>
                     </div>
                     <div className={styles.cardBtn}>
-                      <Link href="/integrantes/sebastian">
+                      <Link href="/integrantes/santiago">
                         <a className="btn btn-rosado">Ver a Santiago</a>
                       </Link>
                     </div>

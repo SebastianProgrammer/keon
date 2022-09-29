@@ -16,7 +16,7 @@ const Header = () => {
             <a>Principal</a>
           </Link>
           <Link href="/integrantes">
-            <a>Intregantes</a>
+            <a>Integrantes</a>
           </Link>
           <Link href="/conocimientos">
             <a>Conocimientos</a>
@@ -26,7 +26,7 @@ const Header = () => {
               <a className={styles.botonRosado}>SportYa</a>
             </Link>
             <Link href="/contacto">
-              <a className={styles.boton}>Contato</a>
+              <a className={styles.boton}>Contacto</a>
             </Link>
           
         </nav>

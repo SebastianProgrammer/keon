@@ -1,5 +1,4 @@
-import Head from "next/head";
-import Image from "next/image";
+
 import Template from "../components/Template";
 import styles from "../styles/Home.module.css";
 import Header from "../components/Header";
@@ -8,6 +7,7 @@ import Acercade from "../components/Acercade";
 import Footer from "../components/Footer";
 import Conocimientos from "../components/Conocimientos";
 import SportYa from "../components/SportYa";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -45,13 +45,13 @@ export default function Home() {
                 <h2>Contactarnos Es Facil</h2>
 
                 <p>
-                  Puedes contactarnos por correo por el momento para hablarnos de
+                  Puedes contactarnos por correo por el momento, para hablarnos de
                   cualquier duda solo escribenos
                 </p>
 
-                <div>
-                  <button className="btn btn-indigo">Contactar</button>
-                </div>
+                <Link href="/contacto">
+                    <a><button className="btn btn-indigo">Contactar</button></a>
+                </Link>
               </div>
             </div>
           </div>

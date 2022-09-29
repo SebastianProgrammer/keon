@@ -39,7 +39,7 @@ const General = () => {
           <span style={{ whiteSpace: "pre" }} ref={el} />
         </div>
         <div className={styles.parrafo}>
-          <p>Tratando de Cambiar el Mundo con Esfuerzo</p>
+          <p>Tratando de cambiar el mundo con esfuerzo</p>
         </div>
       </div>
 

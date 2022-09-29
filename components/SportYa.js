@@ -7,11 +7,7 @@ const SportYa = () => {
       <h2>SportYa</h2>
 
       <p>
-        siendo desarollada desde 2021, sportya es una aplicación encargada de ofrecer una
-        plataforma para compartir videos, metas y sueños, donde talentos
-        deportivos podrán compartir sus habilidades con otros deportistas. Estos
-        pueden tener la oportunidad de ser contactados por equipos que se
-        encuentren interesados en reclutar nuevos Talentos.
+      Siendo desarrollada desde 2021, Sportya es una aplicación encargada de ofrecer una plataforma para <b>compartir videos, metas y sueños,</b> donde talentos deportivos podrán compartir sus habilidades con otros deportistas. Estos pueden tener <b> la oportunidad de ser contactados por equipos </b> que se encuentren interesados en reclutar nuevos Talentos.
       </p>
 
       <div >

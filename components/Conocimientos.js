@@ -15,9 +15,9 @@ const Conocimientos = () => {
               <h4>Area de Programacion</h4>
 
               <p>
-                Dominamos Varios Lenguajes Como Javascript,php,python y
-                tecnologias que nos permiten hacer realidad nuestros sueños y
-                trabajar mejor todas las ideas como react, nextjs,nodejs buscando la forma
+                Dominamos varios lenguajes como <b>JavaScript, PHP, Python</b> y
+                tecnologías que nos permiten <b>hacer realidad nuestros sueños</b>  y
+                trabajar mejor todas las ideas como React, Nextjs, Nodejs buscando la forma
                 correcta de hacer cambios
               </p>
             </div>
@@ -26,9 +26,7 @@ const Conocimientos = () => {
               <h4>Actual Trabajo</h4>
 
               <p>
-                Trabajamos desarollando una aplicacion llamada sportya con
-                varias tecnologias como nextjs,react native
-                asi sacando una app versatil que todos pueden usar
+              Estamos desarrollando una aplicación llamada <b>Sportya</b> con tecnologías como Nextjs y React native para así sacar <b>una app versátil</b>  que todos puedan usar
               </p>
             </div>
 
@@ -36,9 +34,7 @@ const Conocimientos = () => {
               <h4>Metas</h4>
 
               <p>
-                Actualmente estamos aprendiendo sobre machine learning y
-                blockchain para dar mejor uso de los datos y ayudar a mejorar
-                varios proyectos
+              Actualmente, estamos aprendiendo sobre <b> machine learning y blockchain </b> para dar mejor uso de los datos y ayudar a mejorar nuestros proyectos
               </p>
             </div>
 
@@ -55,7 +51,7 @@ const Conocimientos = () => {
             <div>
               <p>
                 Realizamos diseños y obras artísticas con aplicaciones y
-                programas como Illustrator y Photoshop, las cuales, por su
+                programas como <b>Illustrator y Photoshop</b> , las cuales, por su
                 versatilidad e interfaz amigable, permiten crear diseños
                 atractivos y creativos.
               </p>
@@ -65,9 +61,7 @@ const Conocimientos = () => {
               <h4>Actual Trabajo</h4>
 
               <p>
-                Crear iconografia y demás elementos para la aplicación que sean
-                sobrios y minimalistas. Además, crear diseños inspiradores para
-                los usuarios de Sportya
+              Crear iconografía y demás elementos para la aplicación para que sean sobrios y minimalistas. Además, crear <b>diseños inspiradores</b>  para los usuarios de Sportya
               </p>
             </div>
 
@@ -76,8 +70,8 @@ const Conocimientos = () => {
 
               <p>
                 Estamos aprendiendo nuevas técnicas y conocimientos, con el fin
-                de mejorar como departamento para crear obras y diseños que
-                inspiren y cautiven a nuestros usuarios
+                de <b>mejorar</b> como departamento para crear obras y diseños que 
+                <b> inspiren y cautiven</b> a nuestros usuarios
               </p>
             </div>
 
@@ -91,9 +85,9 @@ const Conocimientos = () => {
 
             <p>
               Nuestros conocimientos se basan en marketing digital, de la cual
-              otorgamos una mejor conexión con nuestros talentos, por lo que
+              otorgamos <b> una mejor conexión con nuestros talentos</b>, por lo que
               también nos enfocamos en el marketing de fidelización, donde
-              podemos brindar un mayor confort y seguridad a las personas que
+              podemos brindar un mayor <b>confort y seguridad</b> a las personas que
               utilicen nuestra aplicación.
             </p>
 
@@ -101,11 +95,7 @@ const Conocimientos = () => {
               <h4>Actual Trabajo</h4>
 
               <p>
-                Actualmente en relación al trabajo de marketing se han
-                desarrollado estrategias que permitan la buena difusión para la
-                obtención de nuevos Talentos deportivos dentro de nuestra
-                aplicación, y de esta forma reforzar nuestra calidad de servicio
-                con investigaciones que satisfagan a nuestros deportistas.
+              Actualmente, con relación al trabajo de marketing <b>se han desarrollado estrategias</b> que permitan la buena difusión para la <b>obtención de nuevos Talentos deportivos</b> dentro de nuestra aplicación, y de esta forma reforzar nuestra calidad de servicio con investigaciones que <b>satisfagan a nuestros deportistas.</b> 
               </p>
             </div>
 
@@ -113,10 +103,7 @@ const Conocimientos = () => {
               <h4>Metas</h4>
 
               <p>
-                Tenemos como objetivo la mejora a nivel investigativo, con el
-                apoyo de clases de marketing que nos ayuden en la estructura y
-                creación de estrategias que busquen la innovación tanto a nivel
-                empresarial como a nivel de consumidores.
+              Tenemos como objetivo la mejora a nivel investigativo, con el apoyo de clases de marketing que nos ayuden en la <b>estructura y creación de estrategias</b>  que busquen la <b>innovación</b> tanto a nivel empresarial como en el ámbito de los consumidores.
               </p>
             </div>
 

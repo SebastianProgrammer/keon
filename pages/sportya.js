@@ -17,9 +17,9 @@ const sportya = () => {
 
 
         <div className={styles.titulo}>
-          <h1>sportya</h1>
+          <h1>Sportya</h1>
 
-          <p>Sportya Es una aplicacion que nace con el fin de crear una red social para deportistas donde se dan a conocer en sus lugares y poder llegar lejos con el poder que dan las redes sociales viendo el factor social de que muchos personas de variedades de edad se quieren dedicar al deporte pero no tienen la capacidad de hacerce conocer Nace esta idea</p>
+          <p>Sportya Es una aplicación que nace con el fin de crear una <b>red social para deportistas</b> donde se dan a conocer en sus lugares y poder llegar lejos con el poder que dan las redes sociales, viendo el factor social de que muchas personas de variedades de edad se <b>quieren dedicar al deporte</b> , pero no tienen la capacidad de hacerse conocer, de ahí nace esta idea</p>
         </div>
 
         <div className={styles.deportistas}>
@@ -27,7 +27,7 @@ const sportya = () => {
           <div>
             <h2>Deportistas</h2>
 
-            <p>Una gran parte de los deportistas que conoceremos como talentos en la aplicacion tiene problemas a la hora de poder hacerce conocer entre varios equipos y personas con esta red social buscamos solucionar esa problematica solo mediante un registro
+            <p>Una gran parte de los deportistas que conoceremos como talentos en la aplicación, tienen problemas a la hora de poder <b>hacerse conocer entre varios equipos y personas</b> , con esta red social buscamos solucionar esa problemática solo mediante un registro
             </p>
 
           </div>
@@ -47,7 +47,7 @@ const sportya = () => {
           <div>
             <h2>Equipos</h2>
 
-            <p>Buscamos tener varios equipos en nuestra aplicacion donde los usuarios puedan cojer experiencia y ademas de asi a darse conocer frente a nuevas posibilidades y que logren su meta de ser deportistas por eso contamos con un apartado donde podran poner todo su experiencia y informacion</p>
+            <p>Buscamos tener varios equipos en nuestra aplicación donde los usuarios puedan coger experiencia y además de así a <b>darse conocer frente a nuevas posibilidades</b>  y que logren su meta de <b>ser deportistas</b>, por eso contamos con un apartado donde podrán poner todo su experiencia e información</p>
           </div>
         </div>
 
@@ -56,7 +56,7 @@ const sportya = () => {
             <h2>La aplicacion</h2>
 
             <p>
-              La aplacion va contar con varios apartados donde se podra realizar varias acciones como para la entretencion del usuario como ver eventos, ofertas de equipos y entre otras cosas para que el usuario pueda estar en la aplicacion que lo va impulsar en la estrategias que lo ayudar a crecer , contamos con estrategias de marketing que ayudaran al usuario
+            La aplicación va a contar con varios apartados donde se podrá realizar varias acciones como para el entretenimiento del usuario como <b>ver eventos, ofertas de equipos y entre otras cosas</b>  para que el usuario pueda estar en la aplicación que lo va a impulsar, en las <b>estrategias que lo ayudarán a crecer</b>, para esto contamos con estrategias de marketing que ayudaran al usuario
             </p>
           </div>
 

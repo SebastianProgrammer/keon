@@ -12,7 +12,7 @@ const Acercade = () => {
 
       <div className={styles.descripcion}>
         <p>
-          Nacemos Con La Idea De Ser una Empresa que ayude a cambiar el mundo mediante varios proyectos, los cuales actualmente son enfocamos en ideas de programación, tecnología y en un futuro próximo el desarrollo de múltiples ideas basadas en la diversidad de mentalidades, las cuales buscan el aprovechamiento como equipo y departamentos, por lo que de esta forma el nombre de Keon surge con la idea de brindar el camino como la llave del tiempo, donde se mezclan las palabras key de llave y eon de tiempo.
+        Nacemos con La idea de ser una empresa que ayude a <b>cambiar el mundo mediante sus proyectos</b>, los cuales actualmente son enfocamos en ideas de <b>programación, tecnología</b> y en un futuro próximo, el desarrollo de múltiples ideas basadas en la diversidad de mentalidades, las cuales buscan el aprovechamiento como equipo y departamentos, por lo que de esta forma el nombre de <b>Keon</b> surge con la idea de brindar el camino como <b>la llave del tiempo</b>, donde se mezclan las palabras key de llave y eon de tiempo.
         </p>
       </div>
 
@@ -21,8 +21,8 @@ const Acercade = () => {
           <div className={styles.programacionTexto}>
             <h4>Programacion</h4>
             <p>
-              Contacmos con un departamento de programacion donde estamos
-              haciendo realidad el proyecto principal de la empresa que es{" "}
+              Contamos con un departamento de programacion donde estamos
+              haciendo realidad <b>nuestro proyecto principal</b>, que es{" "}
               <Link href="/sportya">
                 <span>Sportya</span>
               </Link>{" "}
@@ -42,13 +42,13 @@ const Acercade = () => {
           <div className={styles.disignTexto}>
             <h4>Diseño</h4>
             <p>
-              Este departamento es el encargado de la creación, animación y
-              proyección de un sueño llamado{" "}
+              Este departamento es el encargado de la <b> creación, animación y
+              proyección</b> de un sueño llamado{" "}
               <Link href="/sportya">
                 <span>Sportya</span>
               </Link>{" "}
-              , donde se busca una revolución creativa que cumpla con el
-              objetivo de inspirar a nuestros deportistas para la obtención de
+              , donde se busca una<b> revolución creativa</b> que cumpla con el
+              objetivo de <b>inspirar</b>  a nuestros deportistas para la obtención de
               metas y sueños dentro de nuestra comunidad
             </p>
           </div>
@@ -58,11 +58,11 @@ const Acercade = () => {
           <div className={styles.marketingTexto}>
             <h4>Marketing</h4>
             <p>
-              El departamento de marketing se encuentra encargado de la
-              investigación, creación y desarrollo de estrategias para la
+              El departamento de marketing se encuentra encargado de la 
+              <b> investigación, creación y desarrollo de estrategias</b> para la
               obtención de promesas deportivas, donde estas puedan rodearse de
-              una comunidad enfocada en el respeto mutuo, el crecimiento
-              personal y desarrollo deportivo.
+              una comunidad enfocada en el respeto mutuo, <b>el crecimiento
+              personal y desarrollo deportivo.</b>
             </p>
           </div>
 

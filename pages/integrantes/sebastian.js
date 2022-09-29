@@ -18,10 +18,7 @@ const sebastian = () => {
                         <h2>Sobre Mi</h2>
 
                         <p>
-                            soy sebastian iral valencia Actualmente trabajo como ing de software, Lider de keon y del departamento de programacion, soy una persona muy creativa
-                            soy el fundado de esta iniciativa de empredimiento donde podremos hacer varias ideas tambien soy el creador
-                            de la idea sportya de los temas que me gusta trabajar es desarollador de software , machine learning , mecanica
-                            y fisica y apasionado de estudio personal
+                        Soy Sebastián iral valencia. Actualmente, trabajo como ingeniero de software, soy el líder de keon y del departamento de programación, soy una persona muy creativa por medio de esta iniciativa de emprendimiento, podremos desarrollar diversas ideas, también soy el creador de la idea Sportya, de los temas que me gusta trabajar es como desarrollador de software, el machine learning , la mecánica, la física y el autoaprendizaje
                         </p>
 
                         <p><span>Edad</span>: 23</p>

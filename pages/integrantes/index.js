@@ -22,9 +22,7 @@ const integrantes = () => {
           <h1>Grupo De Keon</h1>
 
           <p>
-            Contamos Con un grupo pequeño pero diverso donde el trabajo ha ido
-            mejorando para mejorar los proyectos donde estamos y poder hacer los
-            sueños realidad
+          Contamos con un grupo pequeño, pero diverso, donde el trabajo ha ido mejorando para mejorar los proyectos donde estamos y poder hacer los sueños realidad
           </p>
 
           <div>
@@ -46,9 +44,7 @@ const integrantes = () => {
                         <span>Cargo</span>: Lider - Lider Programacion
                       </p>
                       <p>
-                        Actual lider del empredimiento keon desempeña este rol
-                        encancargado de relaciones comerciales y de generar
-                        estrategias
+                      Actual líder del emprendimiento Keon, desempeña este rol encargandose de las relaciones comerciales y de generar estrategias administrativas.
                       </p>
                     </div>
                     <div className={styles.cardBtn}>
@@ -62,7 +58,7 @@ const integrantes = () => {
                     {" "}
                     {/* Inicio del card */}
                     <div className={styles.cardImagen}>
-                      <Image src={dario} width={450} height={320} layout="responsive" />
+                      <Image src={dario} width={450} height={350} layout="responsive" />
                     </div>
                     <div className={styles.cardInfo}>
                       <h3>Oscar Eduardo Madrid Anaya</h3>
@@ -70,9 +66,7 @@ const integrantes = () => {
                         <span>Cargo</span>: Colider de Keon
                       </p>
                       <p>
-                        Actual colider de keon encancargado de las mejores
-                        internas y relaciones personales de la empresa actualmente
-                        cumple con este rol
+                      Actual colider de keon encargado mejorar las relaciones internas y las relaciones personales de la empresa, actualmente cumple con este rol.
                       </p>
                     </div>
                     <div className={styles.cardBtn}>
@@ -92,7 +86,7 @@ const integrantes = () => {
                     {" "}
                     {/* Inicio del card */}
                     <div className={styles.cardImagen}>
-                      <Image src={rata} width={450} height={320} layout="responsive" />
+                      <Image src={rata} width={450} height={350} layout="responsive" />
                     </div>
                     <div className={styles.cardInfo}>
                       <h3>Kevin Patiño Arango</h3>
@@ -100,9 +94,7 @@ const integrantes = () => {
                         <span>Cargo</span>: Lider de Marketing
                       </p>
                       <p>
-                        encargado de estrategias para conseguir usuarios dentro
-                        de la aplicacion llamada sportya crea las estrategias y analiza
-                        lo que se tenga que implementar en esta
+                      Encargado de las estrategias de marketing para conseguir usuarios dentro de Sportya crea, además, analiza lo que se tenga que implementar en cada una de estas y su desarrollo.
                       </p>
                     </div>
                     <div className={styles.cardBtn}>
@@ -117,7 +109,7 @@ const integrantes = () => {
                     {" "}
                     {/* Inicio del card */}
                     <div className={styles.cardImagen}>
-                      <Image src={sara} width={450} height={320} layout="responsive" />
+                      <Image src={sara} width={450} height={350} layout="responsive" />
                     </div>
 
                     <div className={styles.cardInfo}>
@@ -126,7 +118,7 @@ const integrantes = () => {
                         <span>Cargo</span>: Colider de Marketing
                       </p>
                       <p>
-                        Ayudar a fortalezar las estrategias de marketing ademas de esto es la que se encarga de los contenidos de las redes sociales dando le toques unicos y creando temas 
+                      Ayudar a fortalecer las estrategias de marketing, además de esto es la que se encarga de los contenidos de las redes sociales, dándole toques únicos a nuestros medios de comunicación y creación de temas.
                       </p>
                     </div>
                     <div className={styles.cardBtn}>
@@ -154,9 +146,7 @@ const integrantes = () => {
                         <span>Cargo</span>: Lider de Diseño
                       </p>
                       <p>
-                        Se encarga de darle un toque artistico a keon
-                        ademas de esto es la que hace la mayoria de images
-                        de la mascosta y varios trabajos artisticos
+                      Se encarga de darle un toque artístico a Keon además de esto, es la que hace la mayoría de imágenes de la mascota y demás trabajos artísticos.
                       </p>
                     </div>
                     <div className={styles.cardBtn}>
@@ -171,7 +161,7 @@ const integrantes = () => {
                     {" "}
                     {/* Inicio del card */}
                     <div className={styles.cardImagen}>
-                      <Image src={darlinton} width={450} height={320} layout="responsive" />
+                      <Image src={darlinton} width={450} height={350} layout="responsive" />
                     </div>
 
                     <div className={styles.cardInfo}>
@@ -180,8 +170,7 @@ const integrantes = () => {
                         <span>Cargo</span>: Colider de Diseño
                       </p>
                       <p>
-                        ha creado la iconografia ayuda a perfecionar el Diseño
-                        de temas de proyectos y darle un toque unico
+                      Ha creado la iconografía que ayuda a perfeccionar el diseño de los temas de los proyectos con un estilo único.
                       </p>
                     </div>
                     <div className={styles.cardBtn}>
@@ -202,7 +191,7 @@ const integrantes = () => {
                     {" "}
                     {/* Inicio del card */}
                     <div className={styles.cardImagen}>
-                      <Image src={danilo} width={450} height={320} layout="responsive" />
+                      <Image src={danilo} width={450} height={350} layout="responsive" />
                     </div>
 
                     <div className={styles.cardInfo}>
@@ -211,8 +200,7 @@ const integrantes = () => {
                         <span>Cargo</span>: Colider de Programacion
                       </p>
                       <p>
-                        Ayudar a fortalezar las estrategias de marketing ademas de
-                        esto es la que se encarga de los contenidos de las redes sociales
+                      Encargado del desarrollo y operación de la aplicación web y móvil para establecer un correcto funcionamiento de la misma.
                       </p>
                     </div>
                     <div className={styles.cardBtn}>
@@ -234,9 +222,7 @@ const integrantes = () => {
                         <span>Cargo</span>: Miembro De Programacion
                       </p>
                       <p>
-                        Encargado de disiño web ayuda a mejoras estecticas de la pagina
-                        con el fin de que sea amigable para todas las personas que la vean
-                        sea de su agrado
+                      Encargado de diseño web, ayuda a mejoras estéticas de la página con el fin de que sean amigables para mejorar la experiencia de los usuarios.
                       </p>
                     </div>
                     <div className={styles.cardBtn}>

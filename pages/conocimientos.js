@@ -34,12 +34,12 @@ const conocimientos = () => {
             <h2>Marketing</h2>
 
             <p>
-              Marketing conoce varias metodologias para realizar su trabajo con este se crean las estrategias bases dentro de keon
+            Marketing comprende varias metodologías para realizar el trabajo, con este se crean las estrategias bases dentro de keon
             </p>
 
             <div>
               <ul className={styles.lista}>
-                <li>marketing digital </li>
+                <li>Marketing digital </li>
                 <li>Inbound marketing </li>
                 <li>Marketing de fidelizacion </li>
                 <li>Neuromarketing </li>
@@ -52,19 +52,19 @@ const conocimientos = () => {
           <div className={styles.disign}>
             <h2>Diseño</h2>
 
-            <p>Conocemos varias metodologias para hacer diseños artisticos donde con estos podemos darle un toque unico a nuestros proyectos con esto todos los diseños e iconografia son nuestra elaboracion</p>
+            <p>Conocemos varias metodologias para hacer <b>diseños artisticos</b> donde con estos podemos darle un toque unico a nuestros proyectos, con esto todos los diseños e iconografia son de nuestra elaboracion</p>
 
 
             <div>
               <ul className={styles.lista}>
                 <li>
-                  Ser capaz de representar gráficamente las ideas de los demás departamentos, cumpliendo los requisitos o sugerencias que se mencionen
+                  Ser capaces de representar gráficamente las ideas de los demás departamentos, cumpliendo los requisitos o sugerencias que se mencionen.
                 </li>
                 <li>
-                  El uso de distintos programas que permitan realizar diferentes clases de diseños gráficos, principalmente Illustrator y Photoshop
+                  El uso de distintos programas que permitan realizar diferentes clases de diseños gráficos, principalmente Illustrator y Photoshop.
                 </li>
                 <li>
-                  Transmitir por medio de las obras realizadas, un mensaje que puede estar explícito, en la imagen o en una frase, o implícito
+                  Transmitir por medio de las obras realizadas, un mensaje que puede estar explícito o implícito, en la imagen o en una frase. 
                 </li>
               </ul>
             </div>

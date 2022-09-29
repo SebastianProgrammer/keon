@@ -15,7 +15,7 @@ const contacto = () => {
         <h1 className={styles.titulo}>Contacto</h1>
         <div className={styles.formulario}>
           <form >
-            <h2>Escribenos Acerca de Cualquier duda o Proyecto</h2>
+            <h2>Escribenos acerca de cualquier duda o sugerencia</h2>
 
             <div className={styles.campo}>
               <input
